@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Hi There!
-Hello Git! I am getting familiar with you!
-Changes
-=======
-Hi There!
->>>>>>> parent of bc68e9d (Editing Text File)
+Changes are there
